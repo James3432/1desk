@@ -1,6 +1,9 @@
 Milestones
 ================
 
+Components
+-----------------
+
 Simple server - logins, start with simple settings (eg. desktop background)
 
 Simple client for logins
